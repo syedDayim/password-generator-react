@@ -67,6 +67,7 @@ function App() {
   };
   return (
     <>
+    <h1>Generate a secure password for your favourite webite</h1>
       <div className="container">
         
         <div className="row-1">
